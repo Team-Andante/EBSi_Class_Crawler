@@ -167,6 +167,7 @@ EBSi_Class_Crawler/
 
 <div align="center">
 
-Maintained by <a href="https://github.com/Team-Andante">Team-Andante</a>
+Maintained by <a href="https://github.com/Team-Andante">Team Andante</a>  
+Code by <a href="https://github.com/gmstghost">gmstghost</a>  
 
 </div>
